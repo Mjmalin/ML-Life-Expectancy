@@ -3,6 +3,6 @@ This program uses Linear Regression to predict average life expectancy based on 
 
 # Libraries
 ```bash
-pip install pandas numpy scikit-learn
+pip install pandas scikit-learn
 ```
 
